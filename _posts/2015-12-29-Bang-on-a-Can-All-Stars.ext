@@ -6,4 +6,6 @@ categories: new music
 ---
 content goes here
 
+{{ youtube P9owZ77oTD8 }}
+
 {{ oembed https://www.youtube.com/watch?v=P9owZ77oTD8 }}
