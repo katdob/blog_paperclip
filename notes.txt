@@ -1,0 +1,16 @@
+TO DO:
+get blog content on http://katdob.github.io/blog_paperclip/
+get YouTube into posts (https://gist.github.com/joelverhagen/1805814 or https://gist.github.com/vanto/1455726)
+
+
+
+to run on local host: jekyll serve --baseurl ''
+
+spin local host from the jekyll directory (contails _config.yml)
+
+commit & push from the level down parent directory (contains Gemfile)
+
+
+-----
+you can post date posts they will display from most recent date at the top
+of the page --

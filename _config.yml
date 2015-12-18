@@ -1,0 +1,11 @@
+# Site settings
+title: The Golden Paperclip -- Music Suggestions on Tuesday & Friday
+email: kat@katdobbins.com
+description: > # this means to ignore newlines until "baseurl:"
+  description
+baseurl: "/blog_paperclip" # /blog_paperclip the subpath of your site, e.g. /blog/
+url: "http://katdob.github.io/blog_paperclip/" # the base hostname & protocol for your site
+github_username:  katdob
+
+# Build settings
+markdown: kramdown
