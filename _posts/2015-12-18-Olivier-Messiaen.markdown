@@ -4,7 +4,14 @@ title:  "Olivier Messiaen"
 date:   2015-12-18 09:43:17
 categories: new-music
 ---
-<h3></h3>
-https://www.youtube.com/watch?v=nTlc4Nvyhw4
+{% include youtubePlayer.html id="nTlc4Nvyhw4" %}
+[Olivier Messiaen] was a French composer, organist and ornithologist, one of the major composers of the 20th century. His music is rhythmically complex; harmonically and melodically it often uses modes of limited transposition, which he abstracted from his early compositions and improvisations. Messiaen also drew on his Roman Catholic faith for his pieces.
 
-{% include youtubePlayer.html id=page.nTlc4Nvyhw4 %}
+He travelled widely and wrote works inspired by diverse influences such as Japanese music, the landscape of Bryce Canyon in Utah and the life of St. Francis of Assisi. He said he perceived colours when he heard certain musical chords (a phenomenon known as synaesthesia in its literal manifestation); combinations of these colours, he said, were important in his compositional process. For a short period Messiaen experimented with the parametrisation associated with "total serialism", in which field he is often cited as an innovator. His style absorbed many exotic musical influences such as Indonesian gamelan (tuned percussion often features prominently in his orchestral works).
+
+Messiaen entered the Paris Conservatoire at the age of 11 and was taught by Paul Dukas, Maurice Emmanuel, Charles-Marie Widor and Marcel Dupré, among others. He was appointed organist at the Église de la Sainte-Trinité in Paris in 1931, a post held until his death. He taught at the Schola Cantorum de Paris during the 1930s. On the fall of France in 1940, Messiaen was made a prisoner of war, during which time he composed his Quatuor pour la fin du temps ("Quartet for the end of time") for the four available instruments—piano, violin, cello and clarinet. The piece was first performed by Messiaen and fellow prisoners for an audience of inmates and prison guards. He was appointed professor of harmony soon after his release in 1941, and professor of composition in 1966 at the Paris Conservatoire, positions he held until his retirement in 1978. His many distinguished pupils included Quincy Jones, Pierre Boulez, Karlheinz Stockhausen and Yvonne Loriod, who became his second wife.
+
+He found birdsong fascinating, notating bird songs worldwide and incorporating birdsong transcriptions into his music. His innovative use of colour, his conception of the relationship between time and music, and his use of birdsong are among the features that make Messiaen's music distinctive.
+
+
+[Olivier Messiaen]: https://en.wikipedia.org/wiki/Olivier_Messiaen

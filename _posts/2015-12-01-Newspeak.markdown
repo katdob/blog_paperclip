@@ -4,7 +4,15 @@ title:  "Newspeak"
 date:   2015-12-01 09:43:17
 categories: new-music avant-garde-music
 ---
-<h3>Sweet Light Crude</h3>
-https://www.youtube.com/watch?v=qSXMilyaANY
+{% include youtubePlayer.html id="qSXMilyaANY" %}
+[Newspeak] has been featured as a part of the Tune-In Festival with Eighth Blackbird at the Park Avenue Armory, the Ecstatic Music Festival In NYC, on New Sounds Live, and at the International Festival of Arts and Ideas.  They have headlined on the MATA Festival, shared bills with The Fiery Furnaces as part of Wordless Music, and performed as part of John Zorn’s Full Force festival.  Most recently, they made their international debut at the 2014 Holland Festival.  Newspeak released their first CD with New Amsterdam Records in November 2010, and recently released their follow-up disc, Soldier Songs, on Innova.
 
-{% include youtubePlayer.html id=page.qSXMilyaANY %}
+“You could call this punk classical,” Lucid Culture says of the New York-based amplified octet, Newspeak.  “Fearlessly aware…(and) resolutely defiant.”   “If more groups played music with such life, power, and passion,” says Sequenza21 “nobody would think this music is “dead.” New Sounds host and tastemaker John Schafer has called them “important players on the new music scene here in New York” and Danny Johnson, of the New Haven Advocate has proclaimed: “these players are so great! …first-rate.”  Newspeak’s debut album, sweet light crude “could easily keep a whole nation full of chamber rock lovers well lubricated for a whole year.” (Arcane Candy)   It “is a provocative recording that’s also fun and satisfying to listen to, and it may be as seminal for the next generation of composers as Icebreaker’s debut CD was for this one.” (George Grella, The Big City). They “inhabit a world in which all genres are on an equal playing field. And that’s the way they like it.” (The Silent Ballet)
+
+Named after the thought-limiting language in George Orwell’s 1984, Newspeak is a powerhouse ensemble that blends the anthems of Godspeed You! Black Emperor and Mogwai with the frenetic and politicized aggression of Black Sabbath and the Dead Kennedys.  Fusing the music-for-use directness of Louis Andriessen and Frederic Rzewski, the ornate complexity of King Crimson and the Mahavishnu Orchestra, and the emotional depths of Elliot Smith and The Cure, they create a mysterious, nuanced, and compelling sound.
+
+Comprised of violinist/composer Caleb Burhans, composer/drummer David T. Little, singer Mellissa Hughes, clarinetist Eileen Mack, guitarist Taylor Levine, cellist Brian Snow, pianist James Johnston, and percussionist Peter Wise, Newspeak is actively committed to the music of its time.  In addition to band member/composers Little and Burhans, Newspeak has commissioned, work-shopped, and premiered work by some of the most exciting composers of the new generation, including Corey Dargel, Darcy James Argue, Oscar Bettison, Sean Friar, Ted Hearne, Judd Greenstein, William Brittelle, Toby Driver, Matthew Friedberger, Ruby Fulton, Sarah Kirkland Snider, Matt Marks, Lisa Coons, and Missy Mazzoli, as well as established composers like Randall Woolf, Frederic Rzewski and Paul Lansky.
+
+An early standout within New York’s “indie-classical” scene, members of Newspeak met in New York City in the 2005.  The current ensemble began performing together in 2008.
+
+[Newspeak]: http://newspeakmusic.org/
