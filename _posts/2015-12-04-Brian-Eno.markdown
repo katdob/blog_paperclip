@@ -5,13 +5,6 @@ date:   2015-12-04 09:43:17
 categories: electronic-music
 ---
 {% include youtubePlayer.html id="yFz50q_QmfE"  %}
-[Brian Eno] - Brian Peter George St. John le Baptiste de la Salle Eno, born 15 May 1948 and originally christened Brian Peter George Eno), professionally known as Brian Eno or simply Eno, is an English musician, composer, record producer, singer, and visual artist, known as one of the principal innovators of ambient music.
-
-Eno was a student of Roy Ascott on his Groundcourse at Ipswich Civic College. He then studied at Colchester Institute art school in Essex, England, taking inspiration from minimalist painting. During his time on the art course at the Institute, he also gained experience in playing and making music through teaching sessions held in the adjacent music school. He joined the band Roxy Music as synthesiser player in the early 1970s. Roxy Music's success in the glam rock scene came quickly, but Eno soon became tired of touring and of conflicts with lead singer Bryan Ferry.
-
-Eno's solo music has explored more experimental musical styles and ambient music. It has also been immensely influential, pioneering ambient and generative music, innovating production techniques, and emphasising "theory over practice". He also introduced the concept of chance music to popular audiences, partially through collaborations with other musicians. Eno has also worked as an influential music and album producer. By the end of the 1970s, Eno had worked with Robert Fripp on the LPs (No Pussyfooting) and Evening Star, David Bowie on the "Berlin Trilogy" and helped popularise the American band Devo and the punk-influenced "No Wave" genre. He produced and performed on three albums by Talking Heads, including Remain in Light (1980), and produced seven albums for U2, including The Joshua Tree (1987). Eno has also worked on records by James, Laurie Anderson, Coldplay, Paul Simon, Grace Jones, James Blake and Slowdive, among others.
-
-Eno pursues multimedia ventures in parallel to his music career, including art installations, a regular column on society and innovation in Prospect magazine, and "Oblique Strategies" (written with Peter Schmidt), a deck of cards in which cryptic remarks or random insights are intended to resolve dilemmas. Eno continues to collaborate with other musicians, produce records, release his own music, and write.
-
+[Brian Eno]
 
 [Brian Eno]: http://brian-eno.net/reissues/
