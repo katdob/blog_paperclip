@@ -6,6 +6,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog_paperclip" # /blog_paperclip the subpath of your site, e.g. /blog/
 url: "http://katdob.github.io" # the base hostname & protocol for your site
 github_username:  katdob
+paginate: 5
+paginate_path: "/blog_paperclip/page:num/"
 
 # Build settings
 markdown: kramdown
+
+# Gems
+gems: [jekyll-paginate]
