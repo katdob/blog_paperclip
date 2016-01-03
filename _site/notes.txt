@@ -1,7 +1,7 @@
 ----- TO DO:
 fancy up css & layout
 One type of post: video viewable from main page w/ next link if text link applicable
-paginate 5 posts per page (short term fix)
+ask amanda to make you a nice header + picture
 
 make auto-post on date (so that only posts dated to post that day will post, not future posts)
 make clickable calendar of months w/ a list of each month's post upon load of that month
@@ -14,6 +14,7 @@ To add new content move from the post from _futureposts to _posts
 
 ----- misc resources:
 youtubePlayer.html comes from http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ --
+paginate guide is here http://www.ericlagergren.com/blog/jekyll-pagination/
 
 ----- post template:
 ---
