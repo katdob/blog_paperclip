@@ -1,8 +1,6 @@
 ----- TO DO:
-find out why local has duplicates
 find out why http://katdob.github.io/blog_paperclip/ does not wait to publish like local (build from _site, not root)
 fancy up css & layout
-why does http://katdob.github.io/blog_paperclip/ display posts ahead of time, but local does not?
 One type of post: video viewable from main page w/ next link if text link applicable
 multiple pages: most recent month on the first page, text links for other months,
 

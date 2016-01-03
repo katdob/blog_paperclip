@@ -6,8 +6,14 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog_paperclip" # /blog_paperclip the subpath of your site, e.g. /blog/
 url: "http://katdob.github.io" # the base hostname & protocol for your site
 github_username:  katdob
+linkedin_profile:
+google_plus_profile:
+ello_profile:
+facebook_profile: 
+
+# Paginator Settings
 paginate: 5
-paginate_path: "/blog_paperclip/page:num/"
+per_page: 5
 
 # Build settings
 markdown: kramdown

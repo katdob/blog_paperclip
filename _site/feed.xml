@@ -6,9 +6,9 @@
 </description>
     <link>http://katdob.github.io/</link>
     <atom:link href="http://katdob.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Jan 2016 14:29:06 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2016 14:29:06 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Sat, 02 Jan 2016 22:28:35 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Jan 2016 22:28:35 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Chelsea Wolfe</title>
@@ -22,13 +22,13 @@
         <guid isPermaLink="true">http://katdob.github.io/gothic/rock,/electronic,/neofolk/2016/01/01/Chelsea-Wolfe.html</guid>
         
         
-        <category>Gothic</category>
+        <category>gothic</category>
         
-        <category>Rock,</category>
+        <category>rock,</category>
         
-        <category>Electronic,</category>
+        <category>electronic,</category>
         
-        <category>Neofolk</category>
+        <category>neofolk</category>
         
       </item>
     
