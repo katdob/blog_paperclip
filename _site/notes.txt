@@ -1,13 +1,16 @@
 ----- TO DO:
-find out why http://katdob.github.io/blog_paperclip/ does not wait to publish like local (build from _site, not root)
 fancy up css & layout
 One type of post: video viewable from main page w/ next link if text link applicable
-multiple pages: most recent month on the first page, text links for other months,
+paginate 5 posts per page (short term fix)
+
+make auto-post on date (so that only posts dated to post that day will post, not future posts)
+make clickable calendar of months w/ a list of each month's post upon load of that month
 
 ----- info:
 to run on local host: jekyll serve --baseurl '' --incremental
 run locally from gh-pages branch - no need for master
 http://katdob.github.io/blog_paperclip/ is url, cannot be only http://katdob.github.io/ because is a Project Site
+To add new content move from the post from _futureposts to _posts
 
 ----- misc resources:
 youtubePlayer.html comes from http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ --

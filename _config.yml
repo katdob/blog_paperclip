@@ -9,11 +9,11 @@ github_username:  katdob
 linkedin_profile:
 google_plus_profile:
 ello_profile:
-facebook_profile: 
+facebook_profile:
 
 # Paginator Settings
 paginate: 5
-per_page: 5
+paginate_path: "/blog_paperclip/page:num"
 
 # Build settings
 markdown: kramdown
