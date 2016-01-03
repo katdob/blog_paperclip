@@ -5,6 +5,3 @@ date:   2015-12-01 09:43:17
 categories: new-music avant-garde-music
 ---
 {% include youtubePlayer.html id="qSXMilyaANY" %}
-[Newspeak]
-
-[Newspeak]: http://newspeakmusic.org/

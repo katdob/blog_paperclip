@@ -1,14 +1,14 @@
 ----- TO DO:
 fancy up css & layout
-One type of post: video viewable from main page w/ next link if text link applicable
 ask amanda to make you a nice header + picture
 
 make auto-post on date (so that only posts dated to post that day will post, not future posts)
 make clickable calendar of months w/ a list of each month's post upon load of that month
+make paginator links pretty
 
 ----- info:
-to run on local host: jekyll serve --baseurl '' --incremental
-run locally from gh-pages branch - no need for master
+to run on local host: jekyll serve --baseurl '' --incremental (remove --incremental if problematic)
+run locally from gh-pages branch - no need for master (push from gh-pages branch)
 http://katdob.github.io/blog_paperclip/ is url, cannot be only http://katdob.github.io/ because is a Project Site
 To add new content move from the post from _futureposts to _posts
 
@@ -20,10 +20,7 @@ paginate guide is here http://www.ericlagergren.com/blog/jekyll-pagination/
 ---
 layout: post
 title:  ""
-date:   0000-00-00 09:43:17
-categories:
+date: 0000-00-00 09:43:17
+categories: some-kind-of-music, other-general-topic
 ---
-{% include youtubePlayer.html id="" %}
-Website:
-
-[]:
+{% include youtubePlayer.html id="" %} and/or text content

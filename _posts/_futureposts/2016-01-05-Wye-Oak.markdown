@@ -5,6 +5,3 @@ date:   2016-01-05 09:43:17
 categories: Indie Rock, Nu Gaze, Indie Folk
 ---
 {% include youtubePlayer.html id="Mssm8Ml5sOo" %}
-[Wye Oak]
-
-[Wye Oak]: http://wyeoakmusic.com/site/

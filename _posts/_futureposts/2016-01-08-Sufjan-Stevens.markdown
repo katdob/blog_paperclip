@@ -5,6 +5,3 @@ date:   2016-01-08 09:43:17
 categories: Indie Folk, Indie Pop, Baroque Pop, Psychedelic Folk
 ---
 {% include youtubePlayer.html id="lJJT00wqlOo" %}
-[Sufjan Stevens]
-
-[Sufjan Stevens]: http://music.sufjan.com/

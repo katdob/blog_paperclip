@@ -5,6 +5,3 @@ date:   2015-12-04 09:43:17
 categories: electronic-music
 ---
 {% include youtubePlayer.html id="yFz50q_QmfE"  %}
-[Brian Eno]
-
-[Brian Eno]: http://brian-eno.net/reissues/
