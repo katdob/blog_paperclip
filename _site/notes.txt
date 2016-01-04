@@ -1,6 +1,7 @@
 ----- TO DO:
 fancy up css & layout
 ask amanda to make you a nice header + picture
+custom url (www.katdob.com?)
 
 make auto-post on date (so that only posts dated to post that day will post, not future posts)
 make clickable calendar of months w/ a list of each month's post upon load of that month

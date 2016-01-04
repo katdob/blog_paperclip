@@ -64,10 +64,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #6600cc;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #6600cc; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -220,7 +220,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #6600cc;
   margin-left: -15px; }
 
 .footer-col {
