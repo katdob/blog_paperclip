@@ -67,9 +67,9 @@ a {
   color: #6600cc;
   text-decoration: none; }
   a:visited {
-    color: #6600cc; }
+    color: #400080; }
   a:hover {
-    color: #111;
+    color: #6600cc;
     text-decoration: underline; }
 
 /**
@@ -220,7 +220,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #6600cc;
+  color: #828282;
   margin-left: -15px; }
 
 .footer-col {
