@@ -1,0 +1,7 @@
+---
+layout: post
+title:  ""
+date: 0000-00-00 09:43:17
+categories: some-kind-of-music, other-general-topic
+---
+{% include youtubePlayer.html id="" %} and/or text content
