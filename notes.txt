@@ -1,21 +1,21 @@
 ----- TO DO:
 fancy up css & layout
 ask amanda to make you a nice header + picture
-custom url (www.katdob.com?)
 
 make auto-post on date (so that only posts dated to post that day will post, not future posts)
 make clickable calendar of months w/ a list of each month's post upon load of that month
-make paginator links pretty
 
 ----- info:
 to run on local host: jekyll serve --baseurl '' --incremental (remove --incremental if problematic)
 run locally from gh-pages branch - no need for master (push from gh-pages branch)
 http://katdob.github.io/blog_paperclip/ is url, cannot be only http://katdob.github.io/ because is a Project Site
 To add new content move from the post from _futureposts to _posts
+Gandi sends masks katdob.github.io/blog_paperclip/ as katdob.com, so no need for custom DNS
 
 ----- misc resources:
 youtubePlayer.html comes from http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ --
 paginate guide is here http://www.ericlagergren.com/blog/jekyll-pagination/
+Gandi is here http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/
 
 ----- post template:
 ---
