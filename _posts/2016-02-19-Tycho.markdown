@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tycho"
-date: 2016-02-19 09:43:17
+date: 2016-02-19 00:00:00
 categories: ambient-post-rock, IDM, downtempo, electrogaze, chillwave, post-rock
 ---
-{% include youtubePlayer.html id="mehLx_Fjv_c" %} 
+{% include youtubePlayer.html id="mehLx_Fjv_c" %}
