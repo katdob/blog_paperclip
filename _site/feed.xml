@@ -4,173 +4,200 @@
     <title>The Golden Paperclip -- Music Suggestions on Tuesday &amp; Friday</title>
     <description>description
 </description>
-    <link>http://katdob.github.io/</link>
-    <atom:link href="http://katdob.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 07 Jan 2016 23:33:32 -0500</pubDate>
-    <lastBuildDate>Thu, 07 Jan 2016 23:33:32 -0500</lastBuildDate>
+    <link>http://katdob.github.io/blog_paperclip/</link>
+    <atom:link href="http://katdob.github.io/blog_paperclip/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 04 Mar 2016 01:24:29 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 01:24:29 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Sufjan Stevens</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/lJJT00wqlOo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Disclosure ft. Lorde</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/b_KfnGBtVeA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Fri, 08 Jan 2016 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/indie/folk,/pop,/baroque/psychedelic/folk/2016/01/08/Sufjan-Stevens.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/indie/folk,/pop,/baroque/psychedelic/folk/2016/01/08/Sufjan-Stevens.html</guid>
+        <pubDate>Tue, 31 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/house,/deep-house,/synthpop,/future-garage/2016/05/31/Disclosure.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/house,/deep-house,/synthpop,/future-garage/2016/05/31/Disclosure.html</guid>
         
         
-        <category>indie</category>
+        <category>house,</category>
         
-        <category>folk,</category>
+        <category>deep-house,</category>
+        
+        <category>synthpop,</category>
+        
+        <category>future-garage</category>
+        
+      </item>
+    
+      <item>
+        <title>The Chemical Brothers Ft. Beck</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/BC2dRkm8ATU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 27 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/big/beat,/electronica,/techno,/trip-hop/2016/05/27/The-Chemical-Brothers.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/big/beat,/electronica,/techno,/trip-hop/2016/05/27/The-Chemical-Brothers.html</guid>
+        
+        
+        <category>big</category>
+        
+        <category>beat,</category>
+        
+        <category>electronica,</category>
+        
+        <category>techno,</category>
+        
+        <category>trip-hop</category>
+        
+      </item>
+    
+      <item>
+        <title>alt-j</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/rVeMiVU77wo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/art-rock,/folktronica,/indie-pop,/indie-rock/2016/05/24/alt-J.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/art-rock,/folktronica,/indie-pop,/indie-rock/2016/05/24/alt-J.html</guid>
+        
+        
+        <category>art-rock,</category>
+        
+        <category>folktronica,</category>
+        
+        <category>indie-pop,</category>
+        
+        <category>indie-rock</category>
+        
+      </item>
+    
+      <item>
+        <title>Uriah Heep</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/apWKh3D9oVw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I’m 30 today!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/hard-rock,/heavy-metal,/progressive-rock/2016/05/20/Uriah-Heep.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/hard-rock,/heavy-metal,/progressive-rock/2016/05/20/Uriah-Heep.html</guid>
+        
+        
+        <category>hard-rock,</category>
+        
+        <category>heavy-metal,</category>
+        
+        <category>progressive-rock</category>
+        
+      </item>
+    
+      <item>
+        <title>Miike Snow</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/WCNQ2mc_Zzc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 17 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/indie-rock,/noise-pop,/psychedelic-pop,/house/music,/synthpop/2016/05/17/Miike-Snow.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/indie-rock,/noise-pop,/psychedelic-pop,/house/music,/synthpop/2016/05/17/Miike-Snow.html</guid>
+        
+        
+        <category>indie-rock,</category>
+        
+        <category>noise-pop,</category>
+        
+        <category>psychedelic-pop,</category>
+        
+        <category>house</category>
+        
+        <category>music,</category>
+        
+        <category>synthpop</category>
+        
+      </item>
+    
+      <item>
+        <title>Max Frost</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/DDeV0sEjplI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 13 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/indie-pop,/indie-rock,/indie-folk/2016/05/13/Max-Frost.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/indie-pop,/indie-rock,/indie-folk/2016/05/13/Max-Frost.html</guid>
+        
+        
+        <category>indie-pop,</category>
+        
+        <category>indie-rock,</category>
+        
+        <category>indie-folk</category>
+        
+      </item>
+    
+      <item>
+        <title>Dan Croll</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/973ibay5504&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 10 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/indie-rock,/folktronica,/pop-rock,/indie-pop/2016/05/10/Dan-Croll.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/indie-rock,/folktronica,/pop-rock,/indie-pop/2016/05/10/Dan-Croll.html</guid>
+        
+        
+        <category>indie-rock,</category>
+        
+        <category>folktronica,</category>
+        
+        <category>pop-rock,</category>
+        
+        <category>indie-pop</category>
+        
+      </item>
+    
+      <item>
+        <title>Young Fathers</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/2PdYvkaYsaU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 06 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/pop,/hip-hop/2016/05/06/Young-Fathers.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/pop,/hip-hop/2016/05/06/Young-Fathers.html</guid>
+        
         
         <category>pop,</category>
         
-        <category>baroque</category>
-        
-        <category>psychedelic</category>
-        
-        <category>folk</category>
+        <category>hip-hop</category>
         
       </item>
     
       <item>
-        <title>Wye Oak</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Mssm8Ml5sOo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Mother Falcon</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/nazU5RQ0JF8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Tue, 05 Jan 2016 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/indie/rock,/nu/gaze,/folk/2016/01/05/Wye-Oak.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/indie/rock,/nu/gaze,/folk/2016/01/05/Wye-Oak.html</guid>
+        <pubDate>Tue, 03 May 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/symphonic-rock/2016/05/03/Mother-Falcon.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/symphonic-rock/2016/05/03/Mother-Falcon.html</guid>
         
         
-        <category>indie</category>
-        
-        <category>rock,</category>
-        
-        <category>nu</category>
-        
-        <category>gaze,</category>
-        
-        <category>folk</category>
+        <category>symphonic-rock</category>
         
       </item>
     
       <item>
-        <title>Chelsea Wolfe</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/49MYJkEazIg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Jens Buchert</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/ocbBHEWwBm4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Fri, 01 Jan 2016 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/gothic/rock,/electronic,/neofolk/2016/01/01/Chelsea-Wolfe.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/gothic/rock,/electronic,/neofolk/2016/01/01/Chelsea-Wolfe.html</guid>
+        <pubDate>Fri, 29 Apr 2016 08:00:00 -0400</pubDate>
+        <link>http://katdob.github.io/blog_paperclip/ambient,/trip-hop,/chillout/2016/04/29/Jens-Buchert.html</link>
+        <guid isPermaLink="true">http://katdob.github.io/blog_paperclip/ambient,/trip-hop,/chillout/2016/04/29/Jens-Buchert.html</guid>
         
         
-        <category>gothic</category>
+        <category>ambient,</category>
         
-        <category>rock,</category>
+        <category>trip-hop,</category>
         
-        <category>electronic,</category>
-        
-        <category>neofolk</category>
-        
-      </item>
-    
-      <item>
-        <title>Bang On A Can All-Stars</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/P9owZ77oTD8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 29 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/new-music/2015/12/29/Bang-on-a-Can-All-Stars.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/new-music/2015/12/29/Bang-on-a-Can-All-Stars.html</guid>
-        
-        
-        <category>new-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Robot Koch</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/RtlevksI2iw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Fri, 25 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/electronic-music/2015/12/25/Robot-Koch.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/electronic-music/2015/12/25/Robot-Koch.html</guid>
-        
-        
-        <category>electronic-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Melt Banana</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/RgnoBN007Vc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 22 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/new-music/2015/12/22/Melt-Banana.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/new-music/2015/12/22/Melt-Banana.html</guid>
-        
-        
-        <category>new-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Olivier Messiaen</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/nTlc4Nvyhw4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Fri, 18 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/new-music/2015/12/18/Olivier-Messiaen.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/new-music/2015/12/18/Olivier-Messiaen.html</guid>
-        
-        
-        <category>new-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Little Dragon</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/zxfd_fILLF0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 15 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/new-music/2015/12/15/Little-Dragon.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/new-music/2015/12/15/Little-Dragon.html</guid>
-        
-        
-        <category>new-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Jeremiah Cymerman</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/55o9Glt8XVs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Fri, 11 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/new-music/2015/12/11/Jeremiah-Cymerman.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/new-music/2015/12/11/Jeremiah-Cymerman.html</guid>
-        
-        
-        <category>new-music</category>
-        
-      </item>
-    
-      <item>
-        <title>Meredith Monk</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/MhSsaIS15Fc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 08 Dec 2015 04:43:17 -0500</pubDate>
-        <link>http://katdob.github.io/avant-garde-music/2015/12/08/Meredith-Monk.html</link>
-        <guid isPermaLink="true">http://katdob.github.io/avant-garde-music/2015/12/08/Meredith-Monk.html</guid>
-        
-        
-        <category>avant-garde-music</category>
+        <category>chillout</category>
         
       </item>
     

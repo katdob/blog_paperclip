@@ -22,44 +22,18 @@ Gandi is here http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-
 ---
 layout: post
 title:  ""
-date: 0000-00-00 09:43:17
-categories: some-kind-of-music, other-general-topic
+date: 0000-00-00 12:00:00
+categories:
 ---
-{% include youtubePlayer.html id="" %} and/or text content
+{% include youtubePlayer.html id="" %}
 
 ----- content to include:
-bonobo - brace brace
 royksopp - remind me
-jens buchert - silver session
-richard davis (electronic) - others
-electric guest - this head i hold
-arctic monkeys - do i wanna know
-max frost - white lies
-broken bells - the ghost inside
-milky chance - stolen dance
-foster the people - houdini
-mike snow - paddling out
-dan croll - from nowhere
 laibach
-avan lava
-the chemical brothers
-mum
-disclosure
-hozier
 sia
-earth wind and fire
-tower of power
-jack teagarden
 willie colon
 chet faker
 frankie ocean
-odesza
-marian hill
-https://www.youtube.com/watch?v=7QLbi4E3-hI
-pretty lights
-halsey
 james blake
-parra for cuva
-alina baraz & galimatias
-alt-J
-Major Lazer
+teenender
+sam smith

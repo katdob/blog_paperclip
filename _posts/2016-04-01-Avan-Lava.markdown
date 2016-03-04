@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Avan Lava"
+date: 2016-04-01 12:00:00
+categories: indie-pop, indie-rock
+---
+{% include youtubePlayer.html id="yjmT1dxVYNs" %}
