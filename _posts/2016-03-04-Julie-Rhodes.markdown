@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Julie Rhodes"
-date: 2016-03-04 12:00:00
-categories: soul, blues, neo-soul
+date: 2016-03-04
+categories: soul, blues
 ---
 {% include youtubePlayer.html id="56UYnCqo7Pw" %}
 [Julie Rhodes] @ [Thunder Road] on 3/4 & [Columbus Theater] on 3/5!
