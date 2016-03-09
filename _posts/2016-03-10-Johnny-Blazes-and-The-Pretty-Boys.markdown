@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Johnny Blazes & The Pretty Boys"
-date: 2016-03-11 12:00:00
+date: 2016-03-11
 categories: Soul, Funk
 ---
 {% include youtubePlayer.html id="EpTIVtEh1iY" %}

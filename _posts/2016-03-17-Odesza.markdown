@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Odesza"
-date: 2016-03-18 09:43:17
+date: 2016-03-18
 categories: electronic-music, indietronica, electropop, chillwave
 ---
 {% include youtubePlayer.html id="UW0vOum0mBM" %}
