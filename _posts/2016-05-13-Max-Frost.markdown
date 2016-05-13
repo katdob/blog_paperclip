@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Max Frost"
-date: 2016-05-13 12:00:00
+date: 2016-05-13
 categories: indie-pop, indie-rock, indie-folk
 ---
 {% include youtubePlayer.html id="DDeV0sEjplI" %}
