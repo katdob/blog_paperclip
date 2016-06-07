@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Priests"
-date: 2016-06-03
+date: 2016-06-07
 categories: punk-rock
 ---
 {% include youtubePlayer.html id="Y1t0VanNU6I" %}
