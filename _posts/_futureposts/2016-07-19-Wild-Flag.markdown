@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Wild Flag"
+date: 2016-07-19
+categories: indie-rock, post-punk
+---
+{% include youtubePlayer.html id="mx0jVwk5ErE" %}

@@ -5,14 +5,3 @@ date: 2016-00-00
 categories:
 ---
 {% include youtubePlayer.html id="" %}
-
-klangkarussell
-oh wonder - all we do
-wild flag - racehorse
-jon zorn -
-(https://www.youtube.com/watch?v=B9DqykUsqRY)
-lost dog - shrag
-duchess says - mayakovski
-screaming females - laura + marty
-the coathangers - springfield cannonball
-noun

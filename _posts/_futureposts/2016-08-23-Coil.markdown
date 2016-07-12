@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Coil"
+date: 2016-08-23
+categories: experimental-music
+---
+{% include youtubePlayer.html id="ZCJ5FboC5VM" %}

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Shrag"
+date: 2016-07-22
+categories: post-punk, indiepop
+---
+{% include youtubePlayer.html id="CmklH_Hnxzs" %}
