@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Magic Man"
+date: 2016-09-30
+categories: electronics-in-rock-music, emo, synth-pop
+---
+{% include youtubePlayer.html id="yteXdnQQSUc" %}

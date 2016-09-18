@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Elle King"
+date: 2016-09-23
+categories: blues-rock, rock, alternative-country
+---
+{% include youtubePlayer.html id="0uLI6BnVh6w" %}

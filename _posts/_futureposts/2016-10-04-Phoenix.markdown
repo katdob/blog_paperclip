@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Phoenix"
+date: 2016-10-04
+categories: indie-pop, new-wave, synth-pop, alternative-rock
+---
+{% include youtubePlayer.html id="4fTBaGn0-7I" %}

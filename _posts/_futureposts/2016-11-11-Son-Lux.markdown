@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Son Lux"
+date: 2016-11-11
+categories: post-rock, alternative-hip-hop, trip-hop
+---
+{% include youtubePlayer.html id="GL35e5mwD5I" %}

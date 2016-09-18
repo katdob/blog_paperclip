@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "C2C"
+date: 2016-12-16
+categories: breakbeat, electro-swing, trip-hop, turntablism
+---
+{% include youtubePlayer.html id="PZbkF-15ObM" %}

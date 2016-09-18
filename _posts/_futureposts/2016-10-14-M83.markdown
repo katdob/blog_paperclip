@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "M83"
+date: 2016-10-14
+categories: synthpop, dream-pop, ambient-music, post-rock, shoegazing
+---
+{% include youtubePlayer.html id="lAwYodrBr2Q" %}
