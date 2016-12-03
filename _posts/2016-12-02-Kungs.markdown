@@ -6,4 +6,3 @@ categories: soul-music, neo-soul
 ---
 {% include youtubePlayer.html id="4dUS7nDIt1s" %}
 
-That's all folks! This blog ran for a year and is done. Thanks for listening!
